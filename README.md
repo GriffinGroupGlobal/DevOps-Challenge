@@ -49,7 +49,7 @@ Do not feel as though you must create a public fork of this repository. You are 
 
 # Evaluations
 
-We realize there are many items to look at devops. Please do not feel like like you have to do everything. Use your strengths to your advantage. If you have more orchestration experience, feel free to showcase that. If you have more security experience, then wrap security in your containers. Give us a heads up by documenting your code to let us know where and why you concentrated on certain
+We realize there are many items to look at within the devops space. Please do not feel like like you have to do everything. Use your strengths to your advantage. If you have more orchestration experience, feel free to showcase that. If you have more security experience, then wrap security in your containers. Give us a heads up by documenting your code to let us know where and why you concentrated on certain
 items.
 
 As you develop your solution, you may have ideas on other avenues to pursue. Please feel free to include them inline as documented source or as additional [Common Mark][commonmark] compliant notes in your fork.
