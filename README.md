@@ -58,7 +58,7 @@ We look for readability, good architectural decisions, modularity, and a solid a
 # License
 This project is [MIT licensed][mitlicense].
 
-[g3website]:https://www.griffingroupglobal.com
+[g3website]:https://www.griffindigitalidentityprotection.com/
 [git-scm]:https://git-scm.com/
 [github]:https://github.com/
 [nodejs]:https://nodejs.org/en/
