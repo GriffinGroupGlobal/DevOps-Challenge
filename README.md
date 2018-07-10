@@ -18,8 +18,8 @@ We would like your submission to offer a minimum capability. The criteria are:
 ## Where to concentrate your effort
 In a DevOps environment, there are many areas that may be considered. While implementing the minimum requirements, please feel to implement one or more items in these areas. Please do not feel limited to these areas if you would like to add your take on DevOps.
 
-- Creating a build, Test, Publish (to docker hub) pipeline using a CI tool such as [Jenkins][jenkins].
-- Proxying the CI tool
+- Creating a build, Test, Publish (to docker hub) pipeline using a CD tool such as (preferrably) [drone][drone] or [Jenkins][jenkins].
+- deploying the continuous deployment tool to AWS (free tier) using kubernetes
 - Bypassing Jenkins wizard upon startup of its container and autoloading plugins
 - Container security
 - Container size
@@ -73,3 +73,4 @@ This project is [MIT licensed][mitlicense].
 [docker]:https://www.docker.com/
 [nginx]:https://www.nginx.com/
 [jenkins]:https://jenkins.io/
+[drone]:http://docs.drone.io
