@@ -9,6 +9,8 @@ If you are successful, then we will set up an in-person interview and use this c
 # The Challenge
 Griffin Group Global uses a containerized approach to its microservices. The challenge would be to write an [NGINX][nginx] reverse proxy to proxy the [Griffin Group Global][g3website] website and a site of your choosing and then wrap that proxy in a [docker][docker] container. This represents a sizeable amount of work and we would not expect you to handle the breadth of containerization requirements. However, you are free to implement as much as you want.
 
+Ideally, this would take a mid-level developer up to two hours to complete the minimum requirements.
+
 ## Minimum Challenge Requirements
 We would like your submission to offer a minimum capability. The criteria are:
 - A docker container containing an NGINX reverse proxy.
