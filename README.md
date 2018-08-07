@@ -18,8 +18,7 @@ We would like your submission to offer a minimum capability. The criteria are:
 - A proxy of a website of your choosing.
 
 ## Where to concentrate your effort
-In a DevOps environment, there are many areas that may be considered. While implementing the minimum requirements, please feel to implement one or more items in these areas. Please do not feel limited to these areas if you would like to add your take on DevOps.
-
+In a DevOps environment, there are many areas that may be considered. Working software is always top priority, however, so meet the minimum requirements. Should you want to go above and beyond the minimum requirements, please feel free to add to your submittal either via code or via documentation in [common mark][commonmark] compliant documentation.
 - Creating a build, Test, Publish (to docker hub) pipeline using a CD tool such as (preferrably) [drone][drone] or [Jenkins][jenkins].
 - deploying the continuous deployment tool to AWS (free tier) using kubernetes
 - Bypassing Jenkins wizard upon startup of its container and autoloading plugins
