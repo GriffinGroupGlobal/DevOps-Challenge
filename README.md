@@ -68,7 +68,7 @@ We look for readability, good architectural decisions, modularity, and a solid a
 
 This project is [MIT licensed][mitlicense].
 
-[eswebsite]:https://www.griffindigitalidentityprotection.com/
+[eswebsite]:https://estatespace.com/
 [git-scm]:https://git-scm.com/
 [github]:https://github.com/
 [nodejs]:https://nodejs.org/en/
