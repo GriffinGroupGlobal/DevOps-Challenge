@@ -50,7 +50,7 @@ In a DevOps environment, there are many areas that may be considered. Working so
 ## Submission
 
 When you are comfortable with your results, please email your fork to
-[g3-dev@griffingroupglobal.com](mailto:g3-dev@griffingroupglobal.com). Please keep your emails short and to the point.
+[dev@estatespace.com](mailto:dev@estatespace.com). Please keep your emails short and to the point.
 
 Any specific notes or further information you would like to add about your submittal, should be included in the GitHub project as additional [Common Mark][commonmark] notes.
 
